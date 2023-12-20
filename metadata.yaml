@@ -9,6 +9,8 @@ metadata:
   labels:
     language: golang
     anyKey: anyValue
+    anyKey1: anyValue1
+    anyKeyn: anyValuen
   tags: # when they are not set they will be taken from the Github repository topics
     # - Tag 1
     # - Tag 2
