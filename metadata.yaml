@@ -7,7 +7,7 @@ metadata:
   displayName: macarenita-component
   description: # Component description
   labels:
-    # language: java|typescript|golang, when they are not set they will be taken from the Github repository topics main language
+    language: golang
     anyKey: anyValue
   tags: # when they are not set they will be taken from the Github repository topics
     # - Tag 1
