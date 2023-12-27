@@ -26,9 +26,9 @@ spec:
     productManager: # Preferably I/C/D number
     qualityLead: # Preferably I/C/D number
     uxLead: # Preferably I/C/D number
-    securityLead: # Preferably I/C/D number
-#   contactChannels: 
-#     - channelType: # slack|teams
+    securityLead: *
+    contactChannels: 
+     - channelType: # youtube
 #       value: # channel id
 #       link: # link to the channel
 #  links:
