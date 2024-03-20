@@ -1,48 +1,14 @@
-# Hyperspace portal component metadata file
-# For more information, please see:
-# https://portal.hyperspace.tools.sap/projects/dxp/documentation/User-Guide/Manage-Metadata
-
 kind: Component
 metadata:
   displayName: macarenita-component
-  description: # Component description
+  description: test releases tags with github com
   labels:
     language: golang
     anyKey: anyValue
     anyKey1: anyValue1
     anyKeyn: anyValuen
-  tags: # when they are not set they will be taken from the Github repository topics
+  tags:
     - Tag 1 metadata
-    # - Tag 2
 spec:
-  logo: # https://logo.svg
   type:
-    name: # ui|microservice|operator|doc|cli
-    lifecycle: # experimental|production|deprecated.
-  team:
-    name: # Preferably team id in hyperspace portal
-    productOwner: # Preferably I/C/D number
-    technicalOwner: # Preferably I/C/D number
-    productManager: # Preferably I/C/D number
-    qualityLead: # Preferably I/C/D number
-    uxLead: # Preferably I/C/D number
-    securityLead: *
-    contactChannels: 
-     - channelType: # youtube
-#       value: # channel id
-#       link: # link to the channel
-#  links:
-#    - name: # link name
-#      url: # link url
-#      description: # link description
-#  ci:
-#    pipelineLinks:
-#      - name: # pipeline name
-#        url: # pipeline url 
-#  docs:
-#    techDocsLinks:
-#      - name:  # document name
-#        url: # url
-#    helpDocsLinks:
-#      - name: # document name
-#        url: # url
+    name: ui
