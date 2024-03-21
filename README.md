@@ -1,5 +1,5 @@
 # MacarenitaComponent
-the best one
+the best oner
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.5.
 
