@@ -1,0 +1,14 @@
+kind: Component
+metadata:
+  displayName: macarenita-component
+  description: test releases tags with github com
+  labels:
+    language: golang
+    anyKey: anyValue
+    anyKey1: anyValue1
+    anyKeyn: anyValuen
+  tags:
+    - Tag 1 metadata
+spec:
+  type:
+    name: ui
