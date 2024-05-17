@@ -6,7 +6,6 @@ metadata:
     language: golang
     anyKey: anyValue
     anyKey1: anyValue1
-    anyKeyn: anyValuen
   tags:
     - Tag 1 metadata
 spec:
