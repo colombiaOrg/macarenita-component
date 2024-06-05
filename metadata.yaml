@@ -10,7 +10,7 @@ metadata:
     anyKey: anyValue
     anyKey1: anyValue1
   tags:
-    - ghtopic
+    - ghtopic-ghtopic1
 spec:
   type:
     name: ui
