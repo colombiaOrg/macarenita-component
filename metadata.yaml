@@ -12,6 +12,7 @@ metadata:
   tags:
     - ghtopic-ghtopic1
     - nada
+    - acdc
 spec:
   type:
     name: ui
