@@ -11,6 +11,7 @@ metadata:
     anyKey1: anyValue1
   tags:
     - ghtopic-ghtopic1
+    - nada
 spec:
   type:
     name: ui
